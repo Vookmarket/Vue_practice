@@ -1,0 +1,21 @@
+
+.new-todo{
+    margin: 10px;
+    padding: 10px;
+
+    border: 2px solid black;
+
+    .new-todo-item{
+        margin: 5px;
+        padding: 5px;
+    }
+}
+
+.todo-search{
+    display: flex;
+    .todo-search-item{
+        margin: 10px;
+        padding: 10px;
+        border-left: 1px dotted gray;
+    }
+}
